@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Audi",
+        "price": 15000,
+        "year": 2015,
+        "contact":{
+            "dealer": "John",
+            "number": "111-111-111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Golf",
+        "price": 25000,
+        "year": 2017,
+        "contact":{
+            "dealer": "John2",
+            "number": "111-111-111"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Corsa",
+        "price": 1000,
+        "year": 2010,
+        "contact":{
+            "dealer": "John3",
+            "number": "111-111-111"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Ferrari",
+        "price": 150000,
+        "year": 2020,
+        "contact":{
+            "dealer": "John4",
+            "number": "111-111-111"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mazda",
+        "price": 35010,
+        "year": 2021,
+        "contact":{
+            "dealer": "John5",
+            "number": "111-111-111"
+        }
+    }
+]
